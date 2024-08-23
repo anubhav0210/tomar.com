@@ -1,0 +1,27 @@
+[
+{
+"id":1,
+"text":"what is the value of 10+26 ?",
+"options":["26","10","30","36"]
+},
+{
+"id":2,
+"text":"who invented telephone ?",
+"options":["graham bell","einstien","edison","none of the above"]
+},
+{
+"id":3,
+"text":"who is father of computer ?",
+"options":["chales babbage","albert","newton","all of the above"]
+},
+{
+"id":4,
+"text":"in the given option which is the example of system software ?",
+"options":["windows","linux","macos","all of the above"]
+},
+{
+"id":5,
+"text":"who is the founder of spaceX ?",
+"options":["elon musk","steve job","jeff bezos","none of the above"]
+}
+]
