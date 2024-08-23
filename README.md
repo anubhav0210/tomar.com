@@ -1,0 +1,2 @@
+# tomar.com
+static server
